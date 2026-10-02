@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0022-generate-parentheses) |
+| [1078-occurrences-after-bigram](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1078-occurrences-after-bigram) |
 ## Backtracking
 |  |
 | ------- |
