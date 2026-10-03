@@ -18,6 +18,7 @@ public:
         vector<char> st;
 
         for (char c : s) {
+
             if (c != ']') {
                 st.push_back(c);
             }
@@ -29,35 +30,29 @@ public:
                     st.pop_back();
                 }
 
-                st.pop_back();
+                st.pop_back();   
                 reverse(temp);
 
-                string number = "";
-
-                while (!st.empty() && st.back() >= '0' && st.back() <= '9') {
-                    number += st.back();
+                string repeat = "";
+                while(!st.empty() && st.back() >= '0' && st.back() <= '9'){
+                    repeat.push_back(st.back());
                     st.pop_back();
                 }
-
-                reverse(number);
-                int repeate = stoi(number);
+                reverse(repeat);
+                int rp = stoi(repeat);
 
                 string original = temp;
 
-                for (int i = 1; i < repeate; i++) {
-                    temp += original;
+                for (int i = 1; i < rp; i++) {
+                    temp += original; 
                 }
 
                 for (char x : temp) {
                     st.push_back(x);
                 }
-            }
+            }   
         }
-
-        for (char c : st) {
-            ans += c;
-        }
-
+        for(char c : st) ans += c;
         return ans;
     }
 };
