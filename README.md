@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0015-3sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Math
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0394-decode-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
