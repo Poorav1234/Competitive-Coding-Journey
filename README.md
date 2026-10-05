@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0002-add-two-numbers) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Dynamic Programming
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0678-valid-parenthesis-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
