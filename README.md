@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0015-3sum) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +73,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0002-add-two-numbers) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
