@@ -82,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0178-rank-scores) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
