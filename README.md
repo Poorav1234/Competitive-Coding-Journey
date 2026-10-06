@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0015-3sum) |
+| [0821-shortest-distance-to-a-character](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Math
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0678-valid-parenthesis-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-occurrences-after-bigram](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1078-occurrences-after-bigram) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0015-3sum) |
+| [0821-shortest-distance-to-a-character](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Sorting
 |  |
