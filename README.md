@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Database
 |  |
