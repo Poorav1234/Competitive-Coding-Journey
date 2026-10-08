@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0015-3sum) |
+| [0179-largest-number](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0179-largest-number) |
 | [0565-array-nesting](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0565-array-nesting) |
 | [0821-shortest-distance-to-a-character](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0179-largest-number) |
 | [0301-remove-invalid-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0678-valid-parenthesis-string) |
@@ -82,9 +84,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0015-3sum) |
+| [0179-largest-number](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0179-largest-number) |
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
