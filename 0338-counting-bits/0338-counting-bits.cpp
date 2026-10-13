@@ -1,13 +1,9 @@
 class Solution {
 public:
     vector<int> countBits(int n) {
-        vector<int> answer;
+        vector<int> answer(n+1, 0);
         for(int i = 0; i <= n; i++){
-            int count = 0;
-            for(int j = 0; j < 32; j++){
-                if(i & (1 << j)) count++;
-            }
-            answer.push_back(count);
+            answer[i] = answer[i / 2]+ i % 2;
         }
         return answer;
     }
