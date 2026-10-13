@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0032-longest-valid-parentheses) |
+| [0338-counting-bits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0338-counting-bits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
