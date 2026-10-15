@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0565-array-nesting) |
 | [0594-longest-harmonious-subsequence](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0821-shortest-distance-to-a-character) |
+| [1324-print-words-vertically](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1324-print-words-vertically) |
 | [1701-average-waiting-time](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1701-average-waiting-time) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1078-occurrences-after-bigram) |
+| [1324-print-words-vertically](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1324-print-words-vertically) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 ## Backtracking
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1324-print-words-vertically](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1324-print-words-vertically) |
 | [1701-average-waiting-time](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1701-average-waiting-time) |
 ## Divide and Conquer
 |  |
