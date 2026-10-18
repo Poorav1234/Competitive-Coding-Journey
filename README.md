@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1701-average-waiting-time) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2404-most-frequent-even-element](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1796-second-largest-digit-in-a-string) |
+| [2404-most-frequent-even-element](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2404-most-frequent-even-element) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0594-longest-harmonious-subsequence) |
+| [2404-most-frequent-even-element](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2404-most-frequent-even-element) |
 ## Binary Indexed Tree
 |  |
 | ------- |
