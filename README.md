@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0941-valid-mountain-array](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0941-valid-mountain-array) |
 | [1324-print-words-vertically](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1324-print-words-vertically) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1701-average-waiting-time](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1701-average-waiting-time) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0179-largest-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0594-longest-harmonious-subsequence) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
