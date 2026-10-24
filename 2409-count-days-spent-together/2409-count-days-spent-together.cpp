@@ -1,22 +1,17 @@
 class Solution {
 public:
-    int DayNumber(int month, int day) {
+    int DayNumber(int month, int day){
         int actualDay = 0, i = 1;
-        while (month > i) {
-            if (i == 1 || i == 3 || i == 5 || i == 7 || i == 8 || i == 10 ||
-                i == 12)
-                actualDay += 31;
-            else if (i == 2)
-                actualDay += 28;
-            else
-                actualDay += 30;
+        while(month > i){
+            if(i == 1 || i == 3 || i == 5 || i == 7 || i == 8 || i == 10 || i == 12) actualDay += 31;
+            else if(i == 2) actualDay += 28;
+            else actualDay += 30;
             i++;
         }
         return actualDay + day;
     }
 
-    int countDaysTogether(string arriveAlice, string leaveAlice,
-                          string arriveBob, string leaveBob) {
+    int countDaysTogether(string arriveAlice, string leaveAlice, string arriveBob, string leaveBob) {
         int arriveA_Month = stoi(arriveAlice.substr(0, 2));
         int arriveB_Month = stoi(arriveBob.substr(0, 2));
         int leaveA_Month = stoi(leaveAlice.substr(0, 2));
@@ -32,14 +27,8 @@ public:
         int leave_alice = DayNumber(leaveA_Month, leaveA_Day);
         int leave_bob = DayNumber(leaveB_Month, leaveB_Day);
 
-        int overlap_start = max(arrive_alice, arrive_bob);
-        int overlap_end = min(leave_alice, leave_bob);
+        if(arrive_bob > leave_alice || arrive_alice > leave_bob) return 0;
 
-        
-        if (overlap_start <= overlap_end) {
-            return overlap_end - overlap_start + 1;
-        }
-
-        return 0;
+        return min(leave_alice, leave_bob) - max(arrive_alice, arrive_bob) + 1;
     }
 };
