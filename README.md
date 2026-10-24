@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2409-count-days-spent-together](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Dynamic Programming
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-print-words-vertically](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1324-print-words-vertically) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1796-second-largest-digit-in-a-string) |
+| [2409-count-days-spent-together](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
