@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0179-largest-number](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0179-largest-number) |
 | [0565-array-nesting](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0565-array-nesting) |
 | [0594-longest-harmonious-subsequence](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0594-longest-harmonious-subsequence) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0165-compare-version-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0821-shortest-distance-to-a-character) |
