@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0941-valid-mountain-array](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0941-valid-mountain-array) |
+| [1254-number-of-closed-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1254-number-of-closed-islands) |
 | [1324-print-words-vertically](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1324-print-words-vertically) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1441-build-an-array-with-stack-operations) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bracket Sequences
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1254-number-of-closed-islands) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0565-array-nesting](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0565-array-nesting) |
+| [1254-number-of-closed-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1254-number-of-closed-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
