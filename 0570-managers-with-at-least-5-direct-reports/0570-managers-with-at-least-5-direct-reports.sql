@@ -1,8 +1,7 @@
 # Write your MySQL query statement below
-with temp as(
-    select managerId from Employee group by managerId having count(*) >= 5
-),
-temp2 as (
-    select id, name from Employee
-)
-select t2.name from temp2 t2 inner join temp t1 on t1.managerId = t2.id; 
+select e1.name
+from Employee e1
+inner join Employee e2
+on e2.managerId = e1.id
+group by e1.id
+having count(*) >= 5
