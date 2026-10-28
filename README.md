@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0577-employee-bonus](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0584-find-customer-referee) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1661-average-time-of-process-per-machine) |
