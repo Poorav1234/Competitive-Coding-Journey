@@ -1,6 +1,8 @@
 class Solution {
 public:
     int smallestNumber(int n) {
+        // Space Complexity : Log n 
+        // Time Complexity : Log n 
         int count = 0;
         while(n > 0) {
             count++;
