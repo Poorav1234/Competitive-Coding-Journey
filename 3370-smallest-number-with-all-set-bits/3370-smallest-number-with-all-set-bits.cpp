@@ -1,16 +1,14 @@
 class Solution {
 public:
     int smallestNumber(int n) {
-        // Space Complexity : Log n 
+        // Space Complexity : O(1) 
         // Time Complexity : Log n 
-        int count = 0;
-        while(n > 0) {
-            count++;
-            n /= 2;
+        int ans = 1;
+
+        while (ans < n) {
+            ans = (ans << 1) | 1;
         }
-        string s(count, '1');
-        int answer = 0;
-        for(int i = 0; i < s.size(); i++) answer += pow(2, i); 
-        return answer;
+
+        return ans;
     }
 };
