@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2404-most-frequent-even-element](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2404-most-frequent-even-element) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bracket Sequences
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0695-max-area-of-island](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1254-number-of-closed-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0565-array-nesting) |
 | [0695-max-area-of-island](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1254-number-of-closed-islands) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
 |  |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
