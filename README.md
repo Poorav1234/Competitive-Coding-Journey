@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2409-count-days-spent-together](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2409-count-days-spent-together) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Dynamic Programming
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0338-counting-bits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
