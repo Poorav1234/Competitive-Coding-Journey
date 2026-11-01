@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0179-largest-number](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0200-number-of-islands) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0565-array-nesting](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0565-array-nesting) |
 | [0594-longest-harmonious-subsequence](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0695-max-area-of-island](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0695-max-area-of-island) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0171-excel-sheet-column-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
