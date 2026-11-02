@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0200-number-of-islands) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0498-diagonal-traverse](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0498-diagonal-traverse) |
 | [0565-array-nesting](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0565-array-nesting) |
 | [0594-longest-harmonious-subsequence](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0695-max-area-of-island](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0695-max-area-of-island) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0498-diagonal-traverse) |
 | [1324-print-words-vertically](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1324-print-words-vertically) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1701-average-waiting-time](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1701-average-waiting-time) |
