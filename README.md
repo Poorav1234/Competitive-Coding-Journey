@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
+| [0788-rotated-digits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0788-rotated-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2409-count-days-spent-together](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2409-count-days-spent-together) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0338-counting-bits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0678-valid-parenthesis-string) |
+| [0788-rotated-digits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0788-rotated-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3665-twisted-mirror-path-count) |
