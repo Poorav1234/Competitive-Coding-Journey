@@ -6,6 +6,6 @@ public:
             sum += x;
             maxValue = max(maxValue, x);
         }
-        return n *maxValue - sum;
+        return n * maxValue - sum;
     }
 };
