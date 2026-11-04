@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0461-hamming-distance) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
