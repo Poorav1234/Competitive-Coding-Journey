@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Dynamic Programming
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Linked List
 |  |
 | ------- |
