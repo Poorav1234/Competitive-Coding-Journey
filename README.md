@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3978-unique-middle-element](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3978-unique-middle-element) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Math
 |  |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [2404-most-frequent-even-element](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2404-most-frequent-even-element) |
+| [3978-unique-middle-element](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3978-unique-middle-element) |
 ## Binary Indexed Tree
 |  |
 | ------- |
