@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Depth-First Search
 |  |
 | ------- |
