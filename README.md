@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1441-build-an-array-with-stack-operations) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1701-average-waiting-time](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1701-average-waiting-time) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2409-count-days-spent-together](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2409-count-days-spent-together) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3364-minimum-positive-sum-subarray) |
 ## Minimax
 |  |
