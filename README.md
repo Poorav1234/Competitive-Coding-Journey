@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Dynamic Programming
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2409-count-days-spent-together) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
