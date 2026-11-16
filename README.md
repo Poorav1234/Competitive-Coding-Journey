@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1701-average-waiting-time](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1701-average-waiting-time) |
+| [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2057-smallest-index-with-equal-value](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
