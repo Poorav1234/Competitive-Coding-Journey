@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0584-find-customer-referee) |
 | [1280-students-and-examinations](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1280-students-and-examinations) |
+| [1527-patients-with-a-condition](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1934-confirmation-rate) |
