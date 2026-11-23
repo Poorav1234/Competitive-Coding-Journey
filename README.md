@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0695-max-area-of-island](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0695-max-area-of-island) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0200-number-of-islands) |
 | [0565-array-nesting](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0565-array-nesting) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
