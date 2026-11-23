@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0165-compare-version-numbers) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2404-most-frequent-even-element) |
