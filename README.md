@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0200-number-of-islands) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0700-search-in-a-binary-search-tree) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0700-search-in-a-binary-search-tree) |
