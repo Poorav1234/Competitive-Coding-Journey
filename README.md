@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2404-most-frequent-even-element](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2404-most-frequent-even-element) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3665-twisted-mirror-path-count) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1701-average-waiting-time](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1701-average-waiting-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Divide and Conquer
 |  |
 | ------- |
