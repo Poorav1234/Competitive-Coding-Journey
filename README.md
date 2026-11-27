@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0877-stone-game) |
