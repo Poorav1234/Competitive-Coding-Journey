@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0941-valid-mountain-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1254-number-of-closed-islands](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1254-number-of-closed-islands) |
 | [1324-print-words-vertically](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1324-print-words-vertically) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1021-remove-outermost-parentheses) |
 | [1078-occurrences-after-bigram](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1078-occurrences-after-bigram) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1324-print-words-vertically](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1324-print-words-vertically) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0594-longest-harmonious-subsequence) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 | [2404-most-frequent-even-element](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2404-most-frequent-even-element) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/0594-longest-harmonious-subsequence) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2404-most-frequent-even-element](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/2404-most-frequent-even-element) |
 | [3978-unique-middle-element](https://github.com/Poorav1234/Competitive-Coding-Journey/tree/master/3978-unique-middle-element) |
